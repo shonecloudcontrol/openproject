@@ -1,7 +1,7 @@
 app:
     name: OpenProject
     code: OPENPROJECT 
-    notify: svarkey@ecloudcntrol.com
+    notify: svarkey@ecloudcontrol.com
 
 build:
     version: 11.3
